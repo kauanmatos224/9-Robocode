@@ -7,9 +7,11 @@ Robocode is a programming game, where the goal is to develop a robot battle tank
 
 # LG -FERA TEAM
 
+![champion.png](https://github.com/kauanmatos224/9-Robocode/blob/main/Champion.png)
+
 This repository reports on the development of Robocode by the lg_fera Team, champion in first place in the 9th robocode tournament at Robotica Centro Paula Souza.
 
-## Watch the Lg_Fera Roboco in Battle against your enemys in You Tube Live
+Watch Lg_Fera Robocode in Battle against your enemys in You Tube Live
 https://youtu.be/W1CNkcCF2gI
 
 
